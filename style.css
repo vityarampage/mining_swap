@@ -1,0 +1,43 @@
+/* style.css */
+
+/* Basic styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for the main container */
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for the main header */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Styling for the statistics section */
+.stat {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Styling for each statistic */
+.stat h2 {
+    font-size: 1.5em;
+    color: #4CAF50;
+}
+
+/* Styling for the exchange price display */
+.stat h3 {
+    font-size: 1.2em;
+    color: #888;
+}
